@@ -8,7 +8,7 @@
 
 <div gap="10">
     <p align="start">
-       <img height="40" src="https://skillicons.dev/icons?i=html,css,js,windows,c,python,java,vscode,eclipse,sqlite" />
+       <img height="40" src="https://skillicons.dev/icons?i=html,css,js,windows,c,python,java,vscode,eclipse,sqlite,typescript" />
     </p>
 </div>
 
