@@ -36,8 +36,8 @@
 | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoria-fsdev&theme=jolly) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoria-fsdev&theme=jolly) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoria-fsdev&theme=jolly&utcOffset=8) |
 | :---: | :---: | :---: |
 
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitoria-fsdev&theme=jolly&hide_border=true&cache=1)](https://git.io/streak-stats) |
-| :---: | :---: |
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) |
+| :---: 
 
 </div>
 
