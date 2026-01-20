@@ -10,11 +10,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🧑‍💻 Um Pouco Sobre Mim:
-<strong>Maria Vitória</strong> | Desenvolvedora em formação e amante de café ☕<br>
-<br>Olá, me chamo Maria Vitória, e estou nessa área desde 2023. Sempre gostei muito de tecnologia e estou sempre buscando aprender mais e melhorar minhas habilidades, principalmente na área de desenvolvimento. Em qualquer ambiente, eu sou observadora e busco promover uma boa comunicação. Além disso, gosto de ajudar meus colegas com dúvidas e no que estiverem precisando, estarei à disposição.
+## 🧑‍💻 About Me:
+<strong>Maria Vitória</strong> | Software Developer in Training & Coffee Lover ☕<br>
+<br>Hi! I'm Maria Vitória, and I've been in the tech field since 2023. I've always been passionate about technology, constantly seeking to learn more and sharpen my skills, especially in software development. I consider myself a keen observer in any environment and I prioritize clear communication. Also, I truly enjoy helping my colleagues with their questions—I'm always happy to help whenever needed!
 
-## 🛠️ Tecnologias que Trabalho:
+## 🛠️ Technologies & Tools:
 
 <div gap="10">
     <p align="start">
@@ -23,13 +23,13 @@
 </div>
 
 
-## 📈 Meu Progresso:
+## 📈 My Progress:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoria-fsdev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
 </div>
 
-### 📊 Estatísticas Detalhadas:
+### 📊 Detailed Statistics:
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img height="350" src="https://i.imgur.com/pX2I1N3.png" />
+  <img height="250" src="https://i.imgur.com/pX2I1N3.png" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
