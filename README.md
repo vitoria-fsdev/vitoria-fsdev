@@ -26,7 +26,7 @@
 ## 📈 Meu Progresso:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rannyzita&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitoria-fsdev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
 </div>
 
 ### 📊 Estatísticas Detalhadas:
@@ -36,7 +36,7 @@
 | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoria-fsdev&theme=jolly) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoria-fsdev&theme=jolly) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoria-fsdev&theme=jolly&utcOffset=8) |
 | :---: | :---: | :---: |
 
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitoria-fsdev&theme=jolly&hide_border=true&date=20260120)](https://git.io/streak-stats) |
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitoria-fsdev&theme=jolly&hide_border=true&cache=1)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 </div>
@@ -45,15 +45,15 @@
 
 <div align="center">
 
-<div align="center">
-  <img height="470" src="https://imgur.com/QrPnu3W.png" />
-</div>
-
 [![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:fs.vitoria.soares@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rannyzita_)
 [![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rannyzita)
 [![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitoria-fsdev/)
 
+</div>
+
+<div align="center">
+  <img height="470" src="https://imgur.com/QrPnu3W.png" />
 </div>
 
 <br>
