@@ -22,6 +22,9 @@
     </p>
 </div>
 
+<div align="center">
+  <img height="470" src="https://i.imgur.com/pX2I1N3.png" />
+</div>
 
 ## 📈 Meu Progresso:
 
@@ -36,8 +39,8 @@
 | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoria-fsdev&theme=jolly) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoria-fsdev&theme=jolly) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoria-fsdev&theme=jolly&utcOffset=8) |
 | :---: | :---: | :---: |
 
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) |
-| :---: 
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitoria-fsdev&theme=jolly&hide_border=true&cache=1)](https://git.io/streak-stats) |
+| :---: | :---: |
 
 </div>
 
@@ -50,9 +53,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rannyzita)
 [![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitoria-fsdev/)
 
-</div>
-<div align="center">
-  <img height="470" src="https://imgur.com/gallery/frieren-ome2iic#pX2I1N3" />
 </div>
 
 <br>
