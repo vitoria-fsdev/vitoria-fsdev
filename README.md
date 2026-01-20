@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me:
 <strong>Maria Vitória</strong> | Software Developer in Training & Coffee Lover ☕<br>
-<br>Hi! I'm Maria Vitória, and I've been in the tech field since 2023. I've always been passionate about technology, constantly seeking to learn more and sharpen my skills, especially in software development. I consider myself a keen observer in any environment and I prioritize clear communication. Also, I truly enjoy helping my colleagues with their questions—I'm always happy to help whenever needed!
+<br>Hi! I'm Maria Vitória, and I've been in the tech field since 2023. I've always been passionate about technology, constantly seeking to learn more and sharpen my skills, especially in software development. I consider myself a keen observer in any environment and I prioritize clear communication. 
 
 ## 🛠️ Technologies & Tools:
 
