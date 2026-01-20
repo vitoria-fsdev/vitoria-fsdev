@@ -57,9 +57,7 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fvitoria-fsdev&s=30&c=ff64da&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
-</div>
+
 
 <br>
 <br>
