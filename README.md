@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=120&section=header"/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
+  <br>
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&vCenter=true&lines=Hello!;My+name+is+Vit%C3%B3ria;I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/>
 </div>
 
@@ -19,6 +20,10 @@
     <p align="start">
        <img height="40" src="https://skillicons.dev/icons?i=html,css,js,windows,c,python,java,vscode,eclipse,sqlite,typescript" />
     </p>
+</div>
+
+<div align="center">
+  <img height="470" src="https://imgur.com/QrPnu3W.png" />
 </div>
 
 ## 📈 Meu Progresso:
@@ -39,7 +44,7 @@
 
 </div>
 
-<img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
+<br>
 
 <div align="center">
 
@@ -49,9 +54,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitoria-fsdev/)
 
 </div>
-
-<br>
-<br>
 
 <br>
 <br>
