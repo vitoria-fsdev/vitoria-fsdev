@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img height="470" src="https://imgur.com/QrPnu3W.png" />
+  <img height="470" src="https://imgur.com/a/ome2iic" />
 </div>
 
 <br>
