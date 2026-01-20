@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=120&section=header"/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&vCenter=true&lines=Hello!;My+name+is+Vit%C3%B3ria;I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/>
 </div>
 
@@ -50,14 +51,7 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
-</div>
-
 <br>
-
-
 
 <br>
 <br>
