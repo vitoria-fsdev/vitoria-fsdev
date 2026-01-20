@@ -44,8 +44,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:fs.vitoria.soares@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rannyzita_)
-[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiilla)
-[![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rannyzita))
+[![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)]((https://www.linkedin.com/in/vitoria-fsdev/))
 
 </div>
 
@@ -59,17 +59,6 @@
 
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fvitoria-fsdev&s=30&c=ff64da&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
-</div>
-
-<div align="center">
-  <p align="center">
-    <samp>
-      ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ÷
-      <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ÷
-      <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ÷
-      <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-    </samp>
-  </p>
 </div>
 
 <br>
