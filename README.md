@@ -51,9 +51,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vitoria-fsdev/)
 
 </div>
-
 <div align="center">
-  <img height="470" src="https://imgur.com/a/ome2iic" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ome2iic"  ><a href="//imgur.com/a/ome2iic">Frieren</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 <br>
