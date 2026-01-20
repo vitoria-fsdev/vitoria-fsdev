@@ -22,9 +22,6 @@
     </p>
 </div>
 
-<div align="center">
-  <img height="470" src="https://imgur.com/QrPnu3W.png" />
-</div>
 
 ## 📈 Meu Progresso:
 
@@ -47,6 +44,10 @@
 <br>
 
 <div align="center">
+
+<div align="center">
+  <img height="470" src="https://imgur.com/QrPnu3W.png" />
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:fs.vitoria.soares@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rannyzita_)
