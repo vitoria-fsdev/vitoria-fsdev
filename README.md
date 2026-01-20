@@ -22,9 +22,6 @@
     </p>
 </div>
 
-<div align="center">
-  <img height="470" src="https://i.imgur.com/pX2I1N3.png" />
-</div>
 
 ## 📈 Meu Progresso:
 
@@ -57,5 +54,9 @@
 
 <br>
 <br>
+
+<div align="center">
+  <img height="470" src="https://i.imgur.com/pX2I1N3.png" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
