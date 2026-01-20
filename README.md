@@ -52,7 +52,7 @@
 
 </div>
 <div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ome2iic"  ><a href="//imgur.com/a/ome2iic">Frieren</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img height="470" src="https://imgur.com/gallery/frieren-ome2iic#pX2I1N3" />
 </div>
 
 <br>
