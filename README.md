@@ -1,9 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=120&section=header"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&lines=Hello!;My+name+is+Vitória;I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🧑‍💻 Um Pouco Sobre Mim:
-  <strong>Maria Vitória</strong> | Desenvolvedora em formação e amante de café ☕<br>
-   <br>Olá, me chamo Maria Vitória, tenho 17 anos e estou cursando atualmente o S4 em Técnico Integrado em Informática no Instituto Federal do Ceará - Campus Cedro. Estou nessa área desde 2023, e pretendo continuar nesse ramo. Sempre gostei muito de tecnologia e estou sempre buscando aprender mais e melhorar minhas habilidades, principalmente na área de desenvolvimento. Em qualquer ambiente, eu sou observadora e busco promover uma boa comunicação. Além disso, gosto de ajudar meus colegas com dúvidas e no que estiverem precisando, estarei à disposição.
-   
+<strong>Maria Vitória</strong> | Desenvolvedora em formação e amante de café ☕<br>
+<br>Olá, me chamo Maria Vitória, tenho 17 anos e estou cursando atualmente o S4 em Técnico Integrado em Informática no Instituto Federal do Ceará - Campus Cedro. Estou nessa área desde 2023, e pretendo continuar nesse ramo. Sempre gostei muito de tecnologia e estou sempre buscando aprender mais e melhorar minhas habilidades, principalmente na área de desenvolvimento. Em qualquer ambiente, eu sou observadora e busco promover uma boa comunicação. Além disso, gosto de ajudar meus colegas com dúvidas e no que estiverem precisando, estarei à disposição.
+
 ## 🛠️ Tecnologias que Trabalho:
 
 <div gap="10">
@@ -14,19 +22,57 @@
 
 ## 📈 Meu Progresso:
 
-<div gap="10">
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=rannyzita&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
-  
-## 
-### Linguagens Mais Usadas
-  
-  | **Linguagens de Programação** | **Linguagens de Marcação e Estilo** |
-  |-------------------------------|------------------------------------|
-  | ![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=rannyzita&layout=compact&hide=html,css&theme=radical) | ![Linguagens de Marcação e Estilo](https://github-readme-stats.vercel.app/api/top-langs/?username=rannyzita&layout=compact&langs_count=2&hide=python,java,roff&theme=radical) |
-  
-  </br>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rannyzita&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"/>
+</div>
 
- 
+### 📊 Estatísticas Detalhadas:
 
+<div align="center">
+
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoria-fsdev&theme=jolly) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoria-fsdev&theme=jolly) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoria-fsdev&theme=jolly&utcOffset=8) |
+| :---: | :---: | :---: |
+
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-fsdev&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitoria-fsdev&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| :---: | :---: |
+
+</div>
+
+<img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:fs.vitoria.soares@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rannyzita_)
+[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiilla)
+[![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fvitoria-fsdev&s=30&c=ff64da&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <samp>
+      ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ÷
+      <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ÷
+      <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ÷
+      <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+    </samp>
+  </p>
+</div>
+
+<br>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
